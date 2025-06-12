@@ -16,22 +16,32 @@ vim.opt.rtp:prepend(lazypath)
 -- Set up plugins
 require("lazy").setup({
 	require("plugins.neotree"),
+<<<<<<< HEAD
 	require("plugins.colortheme_moonlight"),
+=======
+	require("plugins.colortheme_nord"),
+>>>>>>> d0398f6 (only added files currently used in init.lua)
 	require("plugins.bufferline"),
 	require("plugins.lualine"),
 	require("plugins.treesitter"),
 	require("plugins.telescope"),
+<<<<<<< HEAD
 	-- require("plugins.lsp"),
 	-- require("plugins.autocompletion"),
 	-- require("plugins.none-ls"),
 	-- require("plugins.gitsigns"),
+=======
+>>>>>>> d0398f6 (only added files currently used in init.lua)
 	require("plugins.alpha"),
 	require("plugins.indent-blankline"),
 	require("plugins.misc"),
 	require("plugins.comment"),
   require("plugins.noice"),
+<<<<<<< HEAD
 	-- require("plugins.copilot"),
 	-- require("plugins.chatgpt"),
+=======
+>>>>>>> d0398f6 (only added files currently used in init.lua)
 })
 
 -- The line beneath this is called `modeline`. See `:help modeline`
