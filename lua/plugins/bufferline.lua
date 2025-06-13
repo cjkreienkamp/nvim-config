@@ -11,11 +11,7 @@ return {
         themable = true, -- allows highlight groups to be overriden i.e. sets highlights as default
         numbers = 'none', -- | "ordinal" | "buffer_id" | "both" | function({ ordinal, id, lower, raise }): string,
         close_command = 'Bdelete! %d', -- can be a string | function, see "Mouse actions"
-<<<<<<< HEAD
-        buffer_close_icon = '✗',
-=======
         buffer_close_icon = '⨯',
->>>>>>> d0398f6 (only added files currently used in init.lua)
         close_icon = '✗',
         path_components = 1, -- Show only the file name without the directory
         modified_icon = '●',

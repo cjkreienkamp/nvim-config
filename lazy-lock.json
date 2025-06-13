@@ -7,10 +7,6 @@
   "indent-blankline.nvim": { "branch": "master", "commit": "005b56001b2cb30bfa61b7986bc50657816ba4ba" },
   "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
   "lualine.nvim": { "branch": "master", "commit": "15884cee63a8c205334ab13ab1c891cd4d27101a" },
-<<<<<<< HEAD
-  "moonlight.nvim": { "branch": "pure-lua", "commit": "e24e4218ec680b6396532808abf57ca0ada82e66" },
-=======
->>>>>>> d0398f6 (only added files currently used in init.lua)
   "neo-tree.nvim": { "branch": "v3.x", "commit": "f481de16a0eb59c985abac8985e3f2e2f75b4875" },
   "noice.nvim": { "branch": "main", "commit": "0427460c2d7f673ad60eb02b35f5e9926cf67c59" },
   "nui.nvim": { "branch": "main", "commit": "f535005e6ad1016383f24e39559833759453564e" },
